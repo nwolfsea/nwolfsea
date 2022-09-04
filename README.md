@@ -13,3 +13,6 @@ Skills: Cloud / AWS / Terraform / Observability
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nwolfsea&show_icons=true)  
 
+
+
+![alt text](https://github.com/nwolfsea/nwolfsea/blob/main/octocat-1662258420623.png)
